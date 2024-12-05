@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 0f1209eb059aa41489b1761db5915194
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - Could not generate asset path for '../../../../../../../Other Stuff/GameJam+
+    2022/spider_cave_boss.png'
+  - 'Missing texture asset: ../../../../../../../Other Stuff/GameJam+ 2022/spider_cave_boss.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 13
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

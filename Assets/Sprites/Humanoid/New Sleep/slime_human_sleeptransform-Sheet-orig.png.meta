@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: f74c0a677183adb46ba388bc0c3d7a43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 125
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f681cfaeac27b42ab738fdd992d77e
+      internalID: 2013245379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 126
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c93f522c0970c45803106ed3606584
+      internalID: -427728030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 9
+        width: 125
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1806f4d965c9e247a3747c61e1d8bf4
+      internalID: -1022072924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 126
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad855143501734d9b094a77f055a41
+      internalID: -1705717413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a005c913669ae4c80f3f40b844fd35
+      internalID: 365728425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 12
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa87f3be4d6bf4b801b37810b31464
+      internalID: -1865045305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 12
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a5d4581cc06e41aae9bfbd2a77f6b
+      internalID: 1504910686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 12
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c722d94612494a9331a12496f00b9
+      internalID: 1683611806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 12
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173213d41441684aa965a050d1ca976
+      internalID: 1382589887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 12
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339d255e0383e2409c11cf88d0f776d
+      internalID: 1444596596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 12
+        width: 520
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1e962a0b04f54797cdfba25805556
+      internalID: 351348322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_11
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 32
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7557537d526ab4c948b5eec88b8454
+      internalID: -1940939861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_12
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 32
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c59e6b31bb06b41861b55ee3800392
+      internalID: -234065181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_13
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 38
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78ea0b959be7c43ad6d59c80348874
+      internalID: -1884963500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_14
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 38
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccbf8a6b6b258344a4ac79e7d2139da
+      internalID: 2100013334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_15
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 38
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5f0840e41f3ee469cc7af3adde2e8a
+      internalID: -1808221222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_16
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53770bcaf08166745a6ede5e2756c1ce
+      internalID: -2116959403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_17
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b294e2234b9b5c48ba5e68b424b9b54
+      internalID: -1169312115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_18
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396abcfb667efe34d893b2f63050e2c2
+      internalID: -1984892397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_19
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5e278366472943872dfec116cbfc0
+      internalID: 1791283164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_20
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578b71b305b7404f9f1ab0910982696
+      internalID: -198809419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_21
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba4771bd4a64314fb5ea53fede0e7db
+      internalID: 585410441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_22
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f7b16e014d714991012827774e6b8
+      internalID: 1002410969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_23
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f63492b44b5460438003087e8369cd0
+      internalID: 1422910517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_24
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a268f742c951b4faebab56e26e35b3
+      internalID: -1286952818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_25
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 44
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3608571ed7264192c463f9755a12d
+      internalID: -2012381397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_26
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08d2bc3e56f4f41947e74e17ed5dd1
+      internalID: -1419248474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_27
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 44
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5ad079f53ef2439599d9466d2df91
+      internalID: 1364915165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_28
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3227db37757247b030972d5388227
+      internalID: 974600293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_29
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 44
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417888c696a41494f8367c52b8af9f5c
+      internalID: 1651243845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_30
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5549bf4a0d28945a6fe880a7e12f97
+      internalID: 1433021783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_31
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 44
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6726ef1a4c7c2c4d80ab53f8baa2263
+      internalID: -70295616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_32
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b16faa4cfa2f645b418ee57b09b5ef
+      internalID: 1019407231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_33
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 44
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40cd71af9856484baa7c594cc6b8028
+      internalID: 1053552042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_34
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733622f9862d0334d84206cf983a7848
+      internalID: -930823477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_35
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 44
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c502b1b8db9dad46a4a69f1900ec7bb
+      internalID: -1422793595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_36
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9907bf98f38074346b6f7747cab70993
+      internalID: -156377320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_37
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 44
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6d6437444da846bb3650a3aefc068
+      internalID: -39157722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_38
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd222d5bc57d8f94885efd1c964661a1
+      internalID: 559101898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_39
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e826734bbd6346b4caa650b65f4e3
+      internalID: 196134673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_40
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c724dd0bf850d44ab89a3feac3d03fa
+      internalID: 1380562264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_41
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 44
+        width: 126
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf313b2c9d171f44b78864f36625b47
+      internalID: 1830293796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_human_sleeptransform-Sheet-orig_42
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 44
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259d0c1580729246ab30d6be3a7a99e
+      internalID: -376641934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      slime_human_sleeptransform-Sheet-orig_1: -427728030
+      slime_human_sleeptransform-Sheet-orig_27: 1364915165
+      slime_human_sleeptransform-Sheet-orig_25: -2012381397
+      slime_human_sleeptransform-Sheet-orig_33: 1053552042
+      slime_human_sleeptransform-Sheet-orig_34: -930823477
+      slime_human_sleeptransform-Sheet-orig_8: 1382589887
+      slime_human_sleeptransform-Sheet-orig_13: -1884963500
+      slime_human_sleeptransform-Sheet-orig_17: -1169312115
+      slime_human_sleeptransform-Sheet-orig_32: 1019407231
+      slime_human_sleeptransform-Sheet-orig_36: -156377320
+      slime_human_sleeptransform-Sheet-orig_24: -1286952818
+      slime_human_sleeptransform-Sheet-orig_29: 1651243845
+      slime_human_sleeptransform-Sheet-orig_15: -1808221222
+      slime_human_sleeptransform-Sheet-orig_21: 585410441
+      slime_human_sleeptransform-Sheet-orig_23: 1422910517
+      slime_human_sleeptransform-Sheet-orig_42: -376641934
+      slime_human_sleeptransform-Sheet-orig_4: 365728425
+      slime_human_sleeptransform-Sheet-orig_28: 974600293
+      slime_human_sleeptransform-Sheet-orig_16: -2116959403
+      slime_human_sleeptransform-Sheet-orig_20: -198809419
+      slime_human_sleeptransform-Sheet-orig_7: 1683611806
+      slime_human_sleeptransform-Sheet-orig_39: 196134673
+      slime_human_sleeptransform-Sheet-orig_14: 2100013334
+      slime_human_sleeptransform-Sheet-orig_37: -39157722
+      slime_human_sleeptransform-Sheet-orig_40: 1380562264
+      slime_human_sleeptransform-Sheet-orig_41: 1830293796
+      slime_human_sleeptransform-Sheet-orig_9: 1444596596
+      slime_human_sleeptransform-Sheet-orig_38: 559101898
+      slime_human_sleeptransform-Sheet-orig_2: -1022072924
+      slime_human_sleeptransform-Sheet-orig_11: -1940939861
+      slime_human_sleeptransform-Sheet-orig_31: -70295616
+      slime_human_sleeptransform-Sheet-orig_12: -234065181
+      slime_human_sleeptransform-Sheet-orig_0: 2013245379
+      slime_human_sleeptransform-Sheet-orig_18: -1984892397
+      slime_human_sleeptransform-Sheet-orig_22: 1002410969
+      slime_human_sleeptransform-Sheet-orig_6: 1504910686
+      slime_human_sleeptransform-Sheet-orig_3: -1705717413
+      slime_human_sleeptransform-Sheet-orig_35: -1422793595
+      slime_human_sleeptransform-Sheet-orig_5: -1865045305
+      slime_human_sleeptransform-Sheet-orig_30: 1433021783
+      slime_human_sleeptransform-Sheet-orig_10: 351348322
+      slime_human_sleeptransform-Sheet-orig_26: -1419248474
+      slime_human_sleeptransform-Sheet-orig_19: 1791283164
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

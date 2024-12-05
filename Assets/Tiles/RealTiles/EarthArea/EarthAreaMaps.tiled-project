@@ -1,0 +1,12 @@
+{
+    "automappingRulesFile": "Maps/rules.txt",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "TSXs",
+    "folders": [
+        "."
+    ],
+    "propertyTypes": [
+    ]
+}

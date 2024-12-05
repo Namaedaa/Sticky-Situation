@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Ground
+  - Ceiling
+  - Spikes
+  - MovingPlatform
+  - NextLevel
+  - Enemy
+  - EnemyProjectile
+  - turn
+  - Checkpoint
+  - EnemyAttack
+  - Boss
+  - Trajectory End
+  - Camera Level
+  - Level Buttons
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Background Art
+  - Main Menu Button
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 3643089459
+    locked: 0
+  - name: BG2
+    uniqueID: 3145493931
+    locked: 0
+  - name: Level
+    uniqueID: 2326323795
+    locked: 0
+  - name: SlimeTree
+    uniqueID: 3149629163
+    locked: 0
+  - name: LevelAccessories
+    uniqueID: 180915171
+    locked: 0
+  - name: SlimeGround
+    uniqueID: 3281568535
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2094248675
+    locked: 0
+  - name: Enemy
+    uniqueID: 3120441615
+    locked: 0
+  - name: Character
+    uniqueID: 3385529671
+    locked: 0
+  - name: Dots
+    uniqueID: 2206911839
+    locked: 0

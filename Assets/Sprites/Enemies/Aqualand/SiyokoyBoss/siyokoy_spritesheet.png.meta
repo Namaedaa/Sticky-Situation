@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: 67d2ab9100a7e9240a4c4f448999a9c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2237e5b2edfb49adc39309901f419
+      internalID: -1448988226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf14cf6783d0514da9df695bf4e8146
+      internalID: -1713461563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164fced0ba430344b914156050d6387
+      internalID: -591987200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe326f97b8382a3448dbb2dbb22493c1
+      internalID: -1744256969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f98ebf212810d4abea50e095fa34f9
+      internalID: 1433748168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1794
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d7f66d4bcaa54488f7dfe96242f18
+      internalID: -1626830930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2939b83d28ed49818fcfe27fb7b43
+      internalID: 641159697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc6c5131b5608459eb2063970ddadb
+      internalID: 581801772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9986d7ef24c247a31b8ec7ab49d28
+      internalID: -536812303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51654669e82d54aa3b7b10fe53b6a4
+      internalID: 112195517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de50c523edd4a948923ae4bc02ff459
+      internalID: -1399403505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1656
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d5145205041b4497b16403846853a
+      internalID: 699895751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacdf805d215dfb46a5a1850e2ef5ec2
+      internalID: -1893754737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1518
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dafacea5e8b7b46a26db2a9313b99e
+      internalID: 540159915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1518
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a1cf2b91d94a4fa5b13152bc4a002
+      internalID: -1101315006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1518
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdd6a2a0a407042b68c7c39f60cff4
+      internalID: -875122618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec997f3434258404c9c95dc4649c4b8f
+      internalID: 1841496335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10134125229224a98fc3adb12b50de
+      internalID: -146061030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb984d023091a943ac20c3fa66a8cfb
+      internalID: -913284051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04ebe3d80807c147be672a1a7841da9
+      internalID: -1468135418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865249536ea5e07469029c598bab923c
+      internalID: 1406795512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8e12e1e41b7d46a1d1afe09bdbc09
+      internalID: -1939693824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1104
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320e66d5146ed34d9284af736e6dc5b
+      internalID: -2136535447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873fe9ac8d42484693ae5d5e8b845c5
+      internalID: -944634598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef19e23c19a93e40b268e5df35ca16a
+      internalID: -985605096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccca871326cba5458b6f8de20dda9b1
+      internalID: -1547587038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16163467211dfbb4c90b1ec06322469b
+      internalID: 1850134549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9121afd5cfd31d4ab645bf1fb4d5ba5
+      internalID: 737113862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c5e6462c6bba4b89f2b7844dd7245
+      internalID: -2138454263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 966
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec8ad1f7d03124796ec4c042ecee9a
+      internalID: -817498809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2684ff5a66bb40345868c41b419d8b30
+      internalID: -1424871231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506d980736050b4a999f9953ad19808
+      internalID: -510118541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2fdc0cddedec488f527a7df61c90d
+      internalID: 769933698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f6d0a328e11346865cf879c983640
+      internalID: -966493219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080cb5d2c5d3234ab525b2fd811b2fc
+      internalID: -923080322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3987d385d5556f6489f975390ea6d18e
+      internalID: -73148142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 828
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6e01f4d0e4714fa6251b973a80031
+      internalID: 21189915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c4404d357e7a42a818d4ddb19929e
+      internalID: 1169197294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5cb8829cddfae4388e0f9edd6ef194
+      internalID: -1418876497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ebc7a7d403a024c8ecc72677439285
+      internalID: -180388142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f1008aea7ebf3409fab9da82727df3
+      internalID: 722083268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffc65accb73ba40bf28eb8c47be3d9
+      internalID: -1457240225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf340b156e50c4ab44a9af3d312803
+      internalID: 2129508791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 690
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbf088fd794f2488a0cd06b84fc107
+      internalID: 337954766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5516c6f63d0a1241b26471760f40b2c
+      internalID: -1150665908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542c1af97fc20a45aef91f9f7bf9e73
+      internalID: 1314420599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910de8b933c7024186a40ecf8e5acfb
+      internalID: 769359304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08599cccbac534ab1dceb02e1d8e04
+      internalID: -806055204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af04098d92d46408c17b939d127bce
+      internalID: -434112784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 552
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83facf5ee9cd1554db7bcea4dd46a4c2
+      internalID: 1748870602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095015e1953f0fe44ab5d1e42a6cd569
+      internalID: -1416702401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb890970171fca419372a17252b29a3
+      internalID: 2012650846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc539bc9763625949a9bf525c15d85e9
+      internalID: 1742210754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 138
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184835c19de341e428b8ec641c6da4ce
+      internalID: -139471025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c43a69a3acfe0488e32bd8171e0ce8
+      internalID: -503593582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf5b769591e9f4d822762011d1a9f7
+      internalID: 139895394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe826a839225fb439ab3cd1d7713129
+      internalID: -2050772689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: siyokoy_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d004d7ddbdeb4db70682a171dccf4
+      internalID: 1144242359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      siyokoy_spritesheet_53: -139471025
+      siyokoy_spritesheet_27: 737113862
+      siyokoy_spritesheet_47: -806055204
+      siyokoy_spritesheet_56: -2050772689
+      siyokoy_spritesheet_20: 1406795512
+      siyokoy_spritesheet_33: -966493219
+      siyokoy_spritesheet_10: -1399403505
+      siyokoy_spritesheet_18: -913284051
+      siyokoy_spritesheet_51: 2012650846
+      siyokoy_spritesheet_21: -1939693824
+      siyokoy_spritesheet_23: -944634598
+      siyokoy_spritesheet_45: 1314420599
+      siyokoy_spritesheet_39: -180388142
+      siyokoy_spritesheet_1: -1713461563
+      siyokoy_spritesheet_13: 540159915
+      siyokoy_spritesheet_43: 337954766
+      siyokoy_spritesheet_37: 1169197294
+      siyokoy_spritesheet_50: -1416702401
+      siyokoy_spritesheet_46: 769359304
+      siyokoy_spritesheet_12: -1893754737
+      siyokoy_spritesheet_24: -985605096
+      siyokoy_spritesheet_28: -2138454263
+      siyokoy_spritesheet_31: -510118541
+      siyokoy_spritesheet_9: 112195517
+      siyokoy_spritesheet_36: 21189915
+      siyokoy_spritesheet_2: -591987200
+      siyokoy_spritesheet_3: -1744256969
+      siyokoy_spritesheet_48: -434112784
+      siyokoy_spritesheet_4: 1433748168
+      siyokoy_spritesheet_5: -1626830930
+      siyokoy_spritesheet_15: -875122618
+      siyokoy_spritesheet_42: 2129508791
+      siyokoy_spritesheet_11: 699895751
+      siyokoy_spritesheet_38: -1418876497
+      siyokoy_spritesheet_8: -536812303
+      siyokoy_spritesheet_17: -146061030
+      siyokoy_spritesheet_49: 1748870602
+      siyokoy_spritesheet_26: 1850134549
+      siyokoy_spritesheet_34: -923080322
+      siyokoy_spritesheet_41: -1457240225
+      siyokoy_spritesheet_16: 1841496335
+      siyokoy_spritesheet_6: 641159697
+      siyokoy_spritesheet_7: 581801772
+      siyokoy_spritesheet_19: -1468135418
+      siyokoy_spritesheet_14: -1101315006
+      siyokoy_spritesheet_30: -1424871231
+      siyokoy_spritesheet_54: -503593582
+      siyokoy_spritesheet_22: -2136535447
+      siyokoy_spritesheet_32: 769933698
+      siyokoy_spritesheet_57: 1144242359
+      siyokoy_spritesheet_35: -73148142
+      siyokoy_spritesheet_52: 1742210754
+      siyokoy_spritesheet_44: -1150665908
+      siyokoy_spritesheet_55: 139895394
+      siyokoy_spritesheet_25: -1547587038
+      siyokoy_spritesheet_29: -817498809
+      siyokoy_spritesheet_0: -1448988226
+      siyokoy_spritesheet_40: 722083268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

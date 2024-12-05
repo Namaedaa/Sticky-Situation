@@ -1,0 +1,11 @@
+{
+    "automappingRulesFile": "Maps/rules.txt",
+    "commands": [
+    ],
+    "extensionsPath": "Maps",
+    "folders": [
+        "."
+    ],
+    "propertyTypes": [
+    ]
+}

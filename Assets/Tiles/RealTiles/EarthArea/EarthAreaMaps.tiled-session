@@ -1,0 +1,169 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/earth2-0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1.5
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Boss/decorativerock_small_spidercave.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Boss/decorativerock_spiderlcave..tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Boss/spider_cave.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Boss/spider_cave_boss.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/Level1-0.tmx": {
+            "scale": 0.02129665798611111,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 12818.912722270341,
+                "y": 7724.216640342385
+            }
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/Level1-3.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 17920,
+                "y": -10208
+            }
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/NEW_slime_cave_tiles_32.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/big_mushrooms.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/decorative_rocks_normalcave.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/decorativerocks_small_normalcave.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/grass_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/moshrpm-Sheet.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/slime_spike_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/tree.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/EarthMapRules_TileSet.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 511.5,
+                "y": 0.5
+            }
+        },
+        "Maps/EarthTestMap.tmx": {
+            "scale": 25.590625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 16.021492245695445,
+                "y": 16.001953840517768
+            }
+        },
+        "Maps/earth2-0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 9325.333333333332,
+                "y": -290
+            }
+        },
+        "Maps/earth2-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 15615.5,
+                "y": 0.5
+            }
+        },
+        "Maps/earth2-2.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 17663.5,
+                "y": 1535.5
+            }
+        },
+        "Maps/earthTestMap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 15.333333333333371,
+                "y": 16.33333333333337
+            }
+        },
+        "TSXs/earth_tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TSXs/earth_tiles_bg.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TSXs/environment_details.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TSXs/grass_tiles2.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TSXs/slime_spike_tiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 5.5
+        },
+        "TSXs/tree.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/EarthArea/Tiles",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "TSXs/earth_tiles.tsx",
+        "TSXs/earth_tiles_bg.tsx",
+        "TSXs/slime_spike_tiles.tsx",
+        "TSXs/tree.tsx",
+        "TSXs/grass_tiles2.tsx",
+        "Maps/EarthMapRules_TileSet.tmx",
+        "TSXs/environment_details.tsx",
+        "Maps/earth2-2.tmx",
+        "Maps/earth2-1.tmx",
+        "Maps/earth2-0.tmx"
+    ],
+    "project": "EarthAreaMaps.tiled-project",
+    "recentFiles": [
+        "TSXs/earth_tiles.tsx",
+        "TSXs/earth_tiles_bg.tsx",
+        "TSXs/slime_spike_tiles.tsx",
+        "TSXs/tree.tsx",
+        "TSXs/grass_tiles2.tsx",
+        "Maps/EarthMapRules_TileSet.tmx",
+        "TSXs/environment_details.tsx",
+        "Maps/earth2-2.tmx",
+        "Maps/earth2-1.tmx",
+        "Maps/earth2-0.tmx",
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/Level1-3.tmx",
+        "D:/Projects/Unity/Real Gamejam Project/Assets/Tiles/RealTiles/SlimeSpiderCaveArea/Normal/Level1-0.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
